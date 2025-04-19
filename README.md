@@ -76,7 +76,7 @@ javac -d bin src/com/studentdataentrysql/*.java
 java -cp bin com.studentdataentrysql.Main
 ```
 
-### Example Interaction
+## Example Interaction
 Here’s an example of how the system interacts with the user:
 ```
 ===== Student Data Entry System =====
@@ -96,7 +96,8 @@ Enter Age: 22
 Student added successfully.
 ```
 
-### Contributing
+
+## Contributing
 Fork this repository.
 
 Create a feature branch (git checkout -b feature-name).
@@ -107,12 +108,25 @@ Push to the branch (git push origin feature-name).
 
 Open a pull request.
 
-### License
+
+
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-### Acknowledgments
+
+## Acknowledgments
 MySQL for providing the database platform.
 
 JDBC for enabling Java to communicate with the MySQL database.
 
 Inspiration from various JDBC tutorials and resources.
+
+
+
+## Author 
+```
+By
+Vedant Singh Thakur
+23070126144
+AIML B3
+```
